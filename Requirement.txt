@@ -1,0 +1,7 @@
+This file lists all Python libraries needed:
+numpy
+pandas
+matplotlib
+seaborn
+nltk
+scikit-learn
